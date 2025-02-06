@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>South Africa Reads</title>
-    <description>South Africa Reads is designed specifically for teachers, parents, and community members. It makes 40 stories from the African Storybook available with text and audio in English as well as the 10 official languages of South Africa.
+    <description>South Africa Reads is designed specifically for teachers, parents, and community members. It makes 40 stories from the African Storybook available with text and audio in English and some of the other official languages of South Africa.
 </description>
     <link>https://southafricareads.org//</link>
     <atom:link href="https://southafricareads.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Feb 2025 15:04:47 -0800</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2025 15:04:47 -0800</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 17:16:31 -0800</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 17:16:31 -0800</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
   </channel>
